@@ -5,9 +5,9 @@ Currently looking for Data Analyst / BI Analyst opportunities in the Netherlands
 📍 Rotterdam, Netherlands
 
 ## Skills
-Programming:
+- Programming:
 Python, SQL, SAS
-Visualization:
+- Visualization:
 Power BI, Tableau, Splunk
 
 
