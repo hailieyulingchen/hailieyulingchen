@@ -4,7 +4,7 @@ Data Analyst | MSc Data Science and Society at Tilburg University
 
 Currently looking for Data Analyst / BI Analyst opportunities in the Netherlands and Taiwan.
 
-📍 Rotterdam, Netherlands/ Taipei, Taiwam
+📍 Rotterdam, Netherlands/ Taipei, Taiwan
 
 ## Skills
 - Programming:
